@@ -39,7 +39,7 @@
   }
 
   canvas{
-    border: 5px solid white;
+    border: 5px solid rgb(196, 23, 23);
     border-radius: 20px;
     box-shadow: 5px 5px 5px violet;
     margin-top: 130px;
